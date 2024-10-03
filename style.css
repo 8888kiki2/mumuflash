@@ -10,8 +10,8 @@
 body{
     /* background-color: var(--fundo); */
     margin: 0;
-    background: radial-gradient(ellipse at top, #eb7b7b, transparent),
-            radial-gradient(ellipse at bottom, #458d0a, transparent);
+    background: radial-gradient(ellipse at top, #458d0a, transparent),
+            radial-gradient(ellipse at bottom, #eb7b7b, transparent);
         }
 
 footer{
