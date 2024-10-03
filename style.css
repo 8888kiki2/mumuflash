@@ -34,7 +34,7 @@ footer{
     flex-basis: calc(33%-6rem);
 }
 .cartao-conteudo{
-    background-color: var(--fundo);
+    background-color: var(--cor-frente-cartao);
     text-align: center;
     height: 100%;
     transform-style: preserve-3d;
