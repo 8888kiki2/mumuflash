@@ -49,6 +49,8 @@ footer{
     margin: 0.5rem;
     border-radius: 0.6rem;
     font-size: 1.4vw;}
+    backface-visibility: hidden;
+}
 .cartao-conteudo p{
 margin-top: 1rem;
 padding: 2rem;
