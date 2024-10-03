@@ -69,4 +69,17 @@ font-size: 1.4vw;
 .cartao:hover  .cartao-conteudo{
  transform: rotateY(180deg)
 }
+
+.cartao-pergunta,
+.cartao-resposta{
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.cartao-resposta{
+    transform: rotatey(180deg);
+}
         
