@@ -63,3 +63,8 @@ font-size: 1.4vw;
     color: var(--cor-versao-cartao);
     font-weight: 700;
 }
+
+.cartao:hover  .cartao-conteudo{
+ transform: rotateY('180deg')
+}
+        
