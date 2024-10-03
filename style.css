@@ -10,6 +10,8 @@
 body{
     background-color: var(--fundo);
     margin: 0;
+    background-color: linear-gradient(ellipse at top, #e66465, transparent),
+    radial-gradient(ellipse at bottom, #4d9f0c, transparent);;
 }
 
 footer{
@@ -19,7 +21,10 @@ footer{
     bottom: 0;
     width: 100%;
     text-align: center;
+    
 }
+
+
 #container {
     display: flex;
     flex-wrap: wrap;
