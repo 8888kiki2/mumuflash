@@ -8,7 +8,7 @@
 }
 
 body{
-    background-color: var(--fundo);
+    /* background-color: var(--fundo); */
     margin: 0;
     background-color: 
     radial-gradient(ellipse at top, #e66465, transparent),
